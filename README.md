@@ -1,0 +1,1 @@
+This mechine learning model predicts students final grades by using the amount of time they study,absences,failures and activities they do, and how much they were able to achieve in previous semesters
